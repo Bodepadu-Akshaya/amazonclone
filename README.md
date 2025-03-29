@@ -6,7 +6,7 @@ Features
 
   Product Page: Shows product details, images, price, and purchasing options.
 
-  Cart Page: Allows users to view and manage added products.
+  Cart Page: Allows users to view the added products.
 
   User Authentication: Sign-in and sign-up pages for user login and registration.
 
